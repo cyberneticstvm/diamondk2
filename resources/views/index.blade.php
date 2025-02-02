@@ -307,6 +307,114 @@
                         </div>
                         <!-- single project area end -->
                     </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/5.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (7-40T)
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (7-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/7.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Diamond Blade Zero Chipping Wet Cut
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/8.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Diamond Blade Zero Chipping Wet Cut
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/9.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (4-40T)
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/11.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Diamond Blade Zero Chipping Wet Cut
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/10.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Diamond K2</h5>
+                                </a>
+                                <p class="disc">
+                                    Cup Grinidng Wheel - General Purpose
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Cup Grinidng Wheel - General Purpose" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
                 </div>
             </div>
         </div>
