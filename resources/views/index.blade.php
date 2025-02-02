@@ -35,7 +35,7 @@
                         <div class="col-lg-12">
                             <div class="banner-content-12-wrapper with-thirteen">
                                 <h1 class="title-main">
-                                    PROFESSIONAL DIAMOND TOOLS AND POWER TOOLS ACCESSORIES <br> SUPPLIERS IN INDIA
+                                    PROFESSIONAL POWER TOOLS ACCESSORIES <br> SUPPLIERS ALL OVER INDIA
                                 </h1>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                     <div class="title-area-wrapper-13">
                         <span>ABOUT US</span>
                         <h2 class="title">
-                            Core Cut Diamond Tools
+                            DiamondK2 Power Tools Accessories
                         </h2>
                         <p class="disc text-justify">
                             We specializes in providing a wide range of high-quality add-ons and attachments for power tools. These accessories are designed to enhance the performance, versatility, and lifespan of various power tools, including drills, saws, grinders, sanders, and more. The product range typically includes items like drill bits, saw blades, sanding discs, polishing pads, screws, adapters, extension cords, batteries, and storage solutions.<br /><br />

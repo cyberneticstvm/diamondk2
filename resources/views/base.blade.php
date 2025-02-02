@@ -31,10 +31,10 @@
         <div class="mystickyelement-lists-wrap">
             <ul class="mystickyelements-lists mystickyno-minimize">
                 <li id="mystickyelements-social-whatsapp" class="mystickyelements-social-icon-li mystickyelements-social-whatsapp  element-desktop-on element-mobile-on">
-                    <span class="mystickyelements-social-icon social-whatsapp social-custom" style="background: #e75228">
+                    <span class="mystickyelements-social-icon social-whatsapp social-custom" style="background: #25d366">
                         <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
                     </span>
-                    <span class="mystickyelements-social-text " style="background: #e75228">
+                    <span class="mystickyelements-social-text " style="background: #25d366">
                         <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener">WhatsApp</a>
                     </span>
                 </li>
