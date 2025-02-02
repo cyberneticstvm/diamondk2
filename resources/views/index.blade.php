@@ -266,7 +266,7 @@
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (5-40T)
                                 </p>
-                                <a href="" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (5-40T)" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
@@ -284,7 +284,7 @@
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
                                 </p>
-                                <a href="" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
@@ -302,7 +302,7 @@
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
                                 </p>
-                                <a href="" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
