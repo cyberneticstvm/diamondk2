@@ -248,7 +248,7 @@
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-30T)
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text={{ asset('/assets/images/products/1.jpeg') }}" class="rts-btn btn-seconday" target="_blank">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=https://diamondk2.com/public/assets/images/products/1.jpeg" class="rts-btn btn-seconday" target="_blank">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
