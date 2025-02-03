@@ -33758,3 +33758,22 @@ form.appoinment-form select option {
 .text-justify{
   text-align: justify !important;
 }
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:100px;
+	right:25px;
+	background-color:#FF8F3C;
+  ;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #FF8F3C;
+  ;
+    z-index: 9;
+}
+.my-float{
+	margin-top:22px;
+}

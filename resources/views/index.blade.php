@@ -243,7 +243,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹137.50 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-30T)
@@ -261,7 +261,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹206.25 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (5-40T)
@@ -279,7 +279,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹125.50 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
@@ -297,7 +297,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹143.75 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
@@ -315,7 +315,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹287.50 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (7-40T)
@@ -333,7 +333,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹128.75 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
@@ -351,7 +351,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹161.25 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
@@ -369,7 +369,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹153.75 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-40T)
@@ -387,7 +387,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹143.75 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut
@@ -405,7 +405,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2</h5>
+                                    <h5 class="title">Diamond K2 - ₹135.00 / unit</h5>
                                 </a>
                                 <p class="disc">
                                     Cup Grinidng Wheel - General Purpose

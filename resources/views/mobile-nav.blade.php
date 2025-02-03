@@ -34,6 +34,19 @@
                 <div class="info">
                     <span>Our Location</span>
                     <a href="#">
+                        <h5>Core Cut Diamond Tools, P.No.23, ekta.co, Babul Kheda, Nagpur, India</h5>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 single-contact-one-inner">
+            <div class="content">
+                <div class="icone">
+                    <img src="{{ asset('assets/images/contact/shape/03.svg') }}" alt="">
+                </div>
+                <div class="info">
+                    <span>Our Location</span>
+                    <a href="#">
                         <h5>K2 Abrasives Private Limited, Kinfra Industrial Park, Thonakkal, Trivandrum, Kerala, India</h5>
                     </a>
                 </div>

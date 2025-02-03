@@ -172,10 +172,17 @@
                                     <h6 class="title">Office Location</h6>
                                     <div class="number">
                                         <i class="fa-light fa-location-dot"></i>
-                                        <a class="mt-dec" href="#">K2 Abrasives Private Limited, Kinfra Industrial Park, Thonakkal, Trivandrum, Kerala, India</a>
+                                        <a class="mt-dec" href="#">Core Cut Diamond Tools, P.No.23, ekta.co, Babul Kheda, Nagpur, India</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
+                                <div class="single-number">
+                                    <h6 class="title">Office Location</h6>
+                                    <div class="number">
+                                        <i class="fa-light fa-location-dot"></i>
+                                        <a class="mt-dec" href="#">K2 Abrasives Private Limited, Kinfra Industrial Park, Thonakkal, Trivandrum, Kerala, India</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="single-footer-wized-two newsletter" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
@@ -239,6 +246,8 @@
         </div>
     </div>
     <!-- pre loader end -->
+
+    <a href="tel:+919881330858" class="float" data-toggle="tooltip" title="Call Now!"><i class="fa fa-phone my-float text-white"></i></a>
 
 
     <!-- jquery js -->
