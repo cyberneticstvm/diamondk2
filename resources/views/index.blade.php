@@ -239,14 +239,32 @@
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
                             <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/1.jpeg') }}" alt="product">
+                                <img src="{{ asset('/assets/images/products/11.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹137.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹121.25 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Circular Tungsten Carbide Tipped Saws (4-30T)
+                                    Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/2.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹125.00 / unit</h5>
+                                </a>
+                                <p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (4-30T) - 500+ Feet Guaranteed
                                 </p>
                                 <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-30T)" class="rts-btn btn-seconday" target="_blank">Enquire Now</a>
                             </div>
@@ -256,17 +274,35 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
-                            <a href="#" class="thumbnail two">
-                                <img src="{{ asset('/assets/images/products/3.jpeg') }}" alt="product">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/8.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹206.25 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹162.50 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Circular Tungsten Carbide Tipped Saws (5-40T)
+                                    Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (5-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/7.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹128.75 / unit</h5>
+                                </a>
+                                <p class="disc">
+                                    Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
+                                </p>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
@@ -275,14 +311,14 @@
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
                             <a href="#" class="thumbnail three">
-                                <img src="{{ asset('/assets/images/products/2.jpeg') }}" alt="product">
+                                <img src="{{ asset('/assets/images/products/6.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹125.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹133.75 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Diamond Blade Zero Chipping Wet Cut
+                                    Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
                                 </p>
                                 <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
@@ -297,66 +333,52 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹143.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹143.75 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Diamond Blade Zero Chipping Wet Cut
+                                    Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
                                 </p>
                                 <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
                     </div>
+                </div>
+                <div class="row g-24">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
                             <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/5.jpeg') }}" alt="product">
+                                <img src="{{ asset('/assets/images/products/10.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹287.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 3" - ₹135.00 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Circular Tungsten Carbide Tipped Saws (7-40T)
+                                    Cup Grinidng Wheel - General Purpose - 500+ Feet Guaranteed
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (7-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Cup Grinidng Wheel - General Purpose" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
                     </div>
+                </div>
+                <div class="row g-24">
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
                             <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/7.jpeg') }}" alt="product">
+                                <img src="{{ asset('/assets/images/products/1.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹128.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹137.50 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Diamond Blade Zero Chipping Wet Cut
+                                    Circular Tungsten Carbide Tipped Saws (4-30T) - 500+ Feet Guaranteed
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
-                            </div>
-                        </div>
-                        <!-- single project area end -->
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
-                        <!-- single project area start -->
-                        <div class="rts-single-project-one">
-                            <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/8.jpeg') }}" alt="product">
-                            </a>
-                            <div class="project-inner">
-                                <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹161.25 / unit</h5>
-                                </a>
-                                <p class="disc">
-                                    Diamond Blade Zero Chipping Wet Cut
-                                </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-30T)" class="rts-btn btn-seconday" target="_blank">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
@@ -369,10 +391,10 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹153.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹153.75 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Circular Tungsten Carbide Tipped Saws (4-40T)
+                                    Circular Tungsten Carbide Tipped Saws (4-40T) - 500+ Feet Guaranteed
                                 </p>
                                 <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-40T)" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
@@ -382,17 +404,17 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
-                            <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/11.jpeg') }}" alt="product">
+                            <a href="#" class="thumbnail two">
+                                <img src="{{ asset('/assets/images/products/3.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹143.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹206.25 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Diamond Blade Zero Chipping Wet Cut
+                                    Circular Tungsten Carbide Tipped Saws (5-40T) - 500+ Feet Guaranteed
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Diamond Blade Zero Chipping Wet Cut" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (5-40T)" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
@@ -401,16 +423,16 @@
                         <!-- single project area start -->
                         <div class="rts-single-project-one">
                             <a href="#" class="thumbnail">
-                                <img src="{{ asset('/assets/images/products/10.jpeg') }}" alt="product">
+                                <img src="{{ asset('/assets/images/products/5.jpeg') }}" alt="product">
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Diamond K2 - ₹135.00 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 7" - ₹287.50 / unit</h5>
                                 </a>
                                 <p class="disc">
-                                    Cup Grinidng Wheel - General Purpose
+                                    Circular Tungsten Carbide Tipped Saws (7-40T) - 500+ Feet Guaranteed
                                 </p>
-                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Cup Grinidng Wheel - General Purpose" class="rts-btn btn-seconday">Enquire Now</a>
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (7-40T)" class="rts-btn btn-seconday">Enquire Now</a>
                             </div>
                         </div>
                         <!-- single project area end -->
