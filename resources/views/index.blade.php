@@ -34,9 +34,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="banner-content-12-wrapper with-thirteen">
-                                <h1 class="title-main">
+                                <!--<h1 class="title-main">
                                     PROFESSIONAL POWER TOOLS ACCESSORIES <br> SUPPLIERS ALL OVER INDIA
-                                </h1>
+                                </h1>-->
                             </div>
                         </div>
                     </div>
@@ -56,6 +56,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-12">
+                <h5 class="text-center"><a href="{{ asset('/assets/docs/catalogue.pdf') }}" class="fw-bold text-orange blinking-text" target="_blank">View Catalogue</a></h5>
                 <div class="offer-left-13">
                     <div class="title-area-wrapper-13">
                         <span>ABOUT US</span>
@@ -67,8 +68,6 @@
                             At <a href="https://diamondk2.com" class="text-orange">DiamondK2</a>, we focuses on offering durable, precision-engineered products that improve the efficiency and accuracy of construction, woodworking, metalworking, and other trades that rely on power tools.<br /><br />
                             Whether for professional contractors or DIY enthusiasts, <a href="https://diamondk2.com" class="text-orange">DiamondK2</a> provides reliable and high-performing products to ensure optimal tool performance and safety. We may also focus on innovation, offering specialized products that meet the ever-evolving needs of the industry.
                         </p>
-                        <a href="{{ asset('/assets/docs/catalogue.pdf') }}" class="rts-btn btn-primary" target="_blank">View Catalogue
-                        </a>
                     </div>
                 </div>
             </div>
@@ -80,7 +79,7 @@
 </div>
 <!-- our offer area end -->
 <!-- our service area start -->
-<div class="rts-service-area-three rts-section-gap">
+<!-- <div class="rts-service-area-three rts-section-gap">
     <div class="container">
         <div class="row g-5">
             <div class="col-12">
@@ -90,7 +89,6 @@
                 </h2>
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-ship fa-5x text-orange"></i>
@@ -103,10 +101,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-anchor fa-5x text-orange"></i>
@@ -119,10 +115,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-cogs fa-5x text-orange"></i>
@@ -135,10 +129,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="150" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-tint fa-5x text-orange"></i>
@@ -151,10 +143,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="350" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-city fa-5x text-orange"></i>
@@ -167,10 +157,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-truck-loading fa-5x text-orange"></i>
@@ -183,10 +171,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-snowplow fa-5x text-orange"></i>
@@ -199,10 +185,8 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
             <div class="col-lg-4 col-md-6">
-                <!-- single service area start-->
                 <div class="rts-single-service-three" data-sal="slide-up" data-sal-delay="550" data-sal-duration="800">
                     <a href="#" class="">
                         <i class="fas fa-forklift fa-5x text-orange"></i>
@@ -215,14 +199,13 @@
                         <a href="#" class="read-more-btn">Learn More <i class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
-                <!-- single service area end-->
             </div>
 
         </div>
     </div>
-</div>
+</div> -->
 <!-- our service area end -->
-<div class="rts-blog-grid-area rts-section-gap">
+<div class="rts-blog-grid-area">
     <div class="container">
         <div class="row">
             <div class="col-xl-12 col-lg-12">
