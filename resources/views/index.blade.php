@@ -226,7 +226,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹121.25 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
@@ -244,7 +244,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹125.00 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-30T) - 500+ Feet Guaranteed
@@ -262,7 +262,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹162.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
@@ -280,7 +280,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹128.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
@@ -298,7 +298,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹133.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
@@ -316,7 +316,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹143.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Diamond Blade Zero Chipping Wet Cut - 500+ Feet Guaranteed
@@ -336,7 +336,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 3" - ₹135.00 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 3" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Cup Grinidng Wheel - General Purpose - 500+ Feet Guaranteed
@@ -356,7 +356,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹137.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-30T) - 500+ Feet Guaranteed
@@ -374,7 +374,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹153.75 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 4" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (4-40T) - 500+ Feet Guaranteed
@@ -392,7 +392,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹206.25 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 5" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (5-40T) - 500+ Feet Guaranteed
@@ -410,7 +410,7 @@
                             </a>
                             <div class="project-inner">
                                 <a href="#">
-                                    <h5 class="title">Marble and Ceramic Cutting 7" - ₹287.50 / unit</h5>
+                                    <h5 class="title">Marble and Ceramic Cutting 7" - ₹</h5>
                                 </a>
                                 <p class="disc">
                                     Circular Tungsten Carbide Tipped Saws (7-40T) - 500+ Feet Guaranteed
