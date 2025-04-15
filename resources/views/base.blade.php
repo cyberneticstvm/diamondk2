@@ -32,10 +32,10 @@
             <ul class="mystickyelements-lists mystickyno-minimize">
                 <li id="mystickyelements-social-whatsapp" class="mystickyelements-social-icon-li mystickyelements-social-whatsapp  element-desktop-on element-mobile-on">
                     <span class="mystickyelements-social-icon social-whatsapp social-custom" style="background: #25d366">
-                        <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+971585345131&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener"><i class="fab fa-whatsapp" aria-hidden="true"></i></a>
                     </span>
                     <span class="mystickyelements-social-text " style="background: #25d366">
-                        <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener">WhatsApp</a>
+                        <a href="https://api.whatsapp.com/send?phone=+971585345131&text=Hello!%20I%20am%20interested%20in%20your products" target="_blank" rel="noopener">WhatsApp</a>
                     </span>
                 </li>
             </ul>
@@ -60,7 +60,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Call Us</span>
-                                    <a href="tel:+919881330858">+91 9881330858</a>
+                                    <a href="tel:+971585345131">+971 585345131</a>
                                 </div>
                             </div>
                             <!-- sinle map area -->
@@ -81,7 +81,7 @@
                                 </div>
                                 <div class="info">
                                     <span>Send Us Mail</span>
-                                    <a href="mailto:3458955@gmail.com">3458955@gmail.com</a>
+                                    <a href="mailto:k2diamondtool@gmail.com">k2diamondtool@gmail.com</a>
                                 </div>
                             </div>
                             <!-- sinle map area -->
@@ -154,7 +154,7 @@
                                     <h6 class="title">Phone Number</h6>
                                     <div class="number">
                                         <i class="fa-solid fa-phone"></i>
-                                        <a href="tel:+919881330858">+91 9881330858</a>
+                                        <a href="tel:+971585345131">+971 585345131</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
@@ -163,7 +163,7 @@
                                     <h6 class="title">Email address</h6>
                                     <div class="number">
                                         <i class="fa-light fa-envelope"></i>
-                                        <a href="mailto:3458955@gmail.com">3458955@gmail.com</a>
+                                        <a href="mailto:k2diamondtool@gmail.com">k2diamondtool@gmail.com</a>
                                     </div>
                                 </div>
                                 <!-- single number end -->
@@ -247,7 +247,7 @@
     </div>
     <!-- pre loader end -->
 
-    <a href="tel:+919881330858" class="float" data-toggle="tooltip" title="Call Now!"><i class="fa fa-phone my-float text-white"></i></a>
+    <a href="tel:+971585345131" class="float" data-toggle="tooltip" title="Call Now!"><i class="fa fa-phone my-float text-white"></i></a>
 
 
     <!-- jquery js -->
