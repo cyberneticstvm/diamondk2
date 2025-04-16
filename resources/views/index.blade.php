@@ -55,8 +55,13 @@
 <div class="rts-our-offer-area-main rts-section-gap">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-12">
+            <div class="col-lg-6">
                 <h5 class="text-center"><a href="{{ asset('/assets/docs/catalogue.pdf') }}" class="fw-bold text-orange blinking-text" target="_blank">View Catalogue</a></h5>
+            </div>
+            <div class="col-lg-6">
+                <h5 class="text-center"><a href="{{ asset('/assets/docs/k2-main-price-list.xls') }}" class="fw-bold text-orange blinking-text" target="_blank">Price List</a></h5>
+            </div>
+            <div class="col-lg-12">
                 <div class="offer-left-13">
                     <div class="title-area-wrapper-13">
                         <span>ABOUT US</span>
