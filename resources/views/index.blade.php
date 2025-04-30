@@ -426,6 +426,80 @@
                         <!-- single project area end -->
                     </div>
                 </div>
+                <div class="row g-24">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/12.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting - ₹</h5>
+                                </a>
+                                <!--<p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (4-30T) - 500+ Feet Guaranteed
+                                </p>-->
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-30T)" class="rts-btn btn-seconday" target="_blank">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/13.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting - ₹</h5>
+                                </a>
+                                <!--<p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (4-40T) - 500+ Feet Guaranteed
+                                </p>-->
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (4-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail two">
+                                <img src="{{ asset('/assets/images/products/14.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting - ₹</h5>
+                                </a>
+                                <!--<p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (5-40T) - 500+ Feet Guaranteed
+                                </p>-->
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (5-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-12">
+                        <!-- single project area start -->
+                        <div class="rts-single-project-one">
+                            <a href="#" class="thumbnail">
+                                <img src="{{ asset('/assets/images/products/15.jpeg') }}" alt="product">
+                            </a>
+                            <div class="project-inner">
+                                <a href="#">
+                                    <h5 class="title">Marble and Ceramic Cutting - ₹</h5>
+                                </a>
+                                <!--<p class="disc">
+                                    Circular Tungsten Carbide Tipped Saws (7-40T) - 500+ Feet Guaranteed
+                                </p>-->
+                                <a href="https://api.whatsapp.com/send?phone=919881330858&text=Hello I want to know more details about Circular Tungsten Carbide Tipped Saws (7-40T)" class="rts-btn btn-seconday">Enquire Now</a>
+                            </div>
+                        </div>
+                        <!-- single project area end -->
+                    </div>
+                </div>
             </div>
         </div>
     </div>
